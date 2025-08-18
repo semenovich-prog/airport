@@ -1,10 +1,12 @@
-{
-  "license_key": "me-C2354D56-0524-C834-45D7-7439CA72DE59",
-  "expiry_date": "2031-12-31",
-  "active": true
-},
-{
-  "license_key": "me-a562f867a595c7ee52747e9082818c800aff097c638695aa8bf3fdca5d9c2da4",
-  "expiry_date": "2031-12-31",
-  "active": true
-}
+[
+  {
+    "license_key": "me-C2354D56-0524-C834-45D7-7439CA72DE59",
+    "expiry_date": "2031-12-31",
+    "active": true
+  },
+  {
+    "license_key": "me-a562f867a595c7ee52747e9082818c800aff097c638695aa8bf3fdca5d9c2da4",
+    "expiry_date": "2031-12-31",
+    "active": true
+  }
+]
